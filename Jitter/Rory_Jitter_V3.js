@@ -1,4 +1,4 @@
-CONFIG = undefined;
+CONFIG = JSON.parse('{"2TN": 0, "M2w": 0, "Yae": 0, "P78": 0, "VSj": 0, "tGb": 0, "Fp6": 0, "5jF": 15, "E3u": 13, "3xM": 0, "8xh": 97, "kK6": 10, "XxD": 0, "VM2": 30, "2ya": 13, "RG4": 8, "EB3": 1, "G8C": 3, "ke2": 48, "xN8": 0, "au2": 0, "9bf": 0, "z5T": 1, "8Hx": 1}')
 
 
 
